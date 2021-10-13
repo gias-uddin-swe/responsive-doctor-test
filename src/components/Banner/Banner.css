@@ -1,0 +1,35 @@
+.banner {
+  height: 100vh;
+  width: 100%;
+  background-image: url("https://i.ibb.co/gJSfSLH/slide-03-2048x.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3));
+  /* height:600px;
+   width: 100%; */
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+body {
+  overflow-x: hidden;
+}
+
+.title {
+  color: white;
+  font-size: 48px;
+  font-weight: 900;
+}
+.title-sm {
+  font-weight: 500;
+  font-size: 28px;
+  color: white;
+}
+.shop-btn {
+  background: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 3px;
+  margin-top: 40px;
+}

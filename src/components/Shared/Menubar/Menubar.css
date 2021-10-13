@@ -1,0 +1,12 @@
+.items {
+  list-style: none;
+  font-size: 20px;
+  font-weight: 400;
+  cursor: pointer;
+}
+.items:hover {
+  color: blue;
+}
+.menubar-container {
+  background-color: #ffffff;
+}

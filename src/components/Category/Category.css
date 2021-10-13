@@ -1,0 +1,21 @@
+.btn-0 {
+  background-color: #0782e0;
+  color: white;
+  border: none;
+  padding: 10px 22px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.btn-1 {
+  background-color: #fff;
+  color: #000;
+  border: 1px solid gray;
+  padding: 10px 22px;
+  border-radius: 5px;
+  margin: 10px;
+  transition: 0.5s;
+}
+.btn-1:hover {
+  background-color: #0782e0;
+  color: white;
+}
